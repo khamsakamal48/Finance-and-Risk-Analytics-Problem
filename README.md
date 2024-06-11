@@ -1,6 +1,14 @@
 # Finance and Risk Analytics Problem
 Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Peter Jyenger based on their requirements and financial objectives.
 
+## Project Explanation
+In this Capstone Project, as part of my Masters in Data Science Capstone Project at WOOLF University (UpGrad), I demonstrate how to create customized investment portfolios for two investors based on their unique risk tolerance and return requirements. 
+
+Using stock data analysis, I walk you through my methodology and show you how to identify the best stocks to include in each portfolio. 
+
+
+[![Watch the video](/Report/Report.png)](https://www.youtube.com/embed/FbJaAvZswsg)
+
 ## Business Case
 In the recent past, the industry of wealth management has seen a lot of growth. Individuals and businesses actively seek maximum returns. However, in many cases, they lack either the skills to identify the right investment opportunities or the time to find such opportunities. This challenge gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission: portfolio managers.
 
@@ -47,17 +55,3 @@ You must perform the required steps for both the individuals after understanding
 
 ![Returns and Risk](/Dashboard%20or%20Visualizations/Dashboard%20-%20Risk%20Analysis%20&%20Stock%20Returns.jpg)
 
-## Project Explanation
-In this Capstone Project, as part of my Masters in Data Science Capstone Project at WOOLF University (UpGrad), I demonstrate how to create customized investment portfolios for two investors based on their unique risk tolerance and return requirements. 
-
-Using stock data analysis, I walk you through my methodology and show you how to identify the best stocks to include in each portfolio. 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FbJaAvZswsg/0.jpg)](https://www.youtube.com/watch?v=FbJaAvZswsg)
-
-[![Watch the video](https://img.youtube.com/vi/FbJaAvZswsg/hqdefault.jpg)](https://www.youtube.com/embed/FbJaAvZswsg)
-
-[<img src="https://img.youtube.com/vi/FbJaAvZswsg/hqdefault.jpg" width="1920" height="600"
-/>](https://www.youtube.com/embed/FbJaAvZswsg)
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FbJaAvZswsg?si=_JNgELCeebtzP__n&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
