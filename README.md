@@ -7,7 +7,7 @@ In this Capstone Project, as part of my Masters in Data Science Capstone Project
 Using stock data analysis, I walk you through my methodology and show you how to identify the best stocks to include in each portfolio. 
 
 
-[![Watch the video](/Report/Report.png)](https://www.youtube.com/embed/FbJaAvZswsg)
+[![Watch the video](https://img.youtube.com/vi/FbJaAvZswsg/maxresdefault.jpg)](https://www.youtube.com/embed/FbJaAvZswsg)
 
 ## Business Case
 In the recent past, the industry of wealth management has seen a lot of growth. Individuals and businesses actively seek maximum returns. However, in many cases, they lack either the skills to identify the right investment opportunities or the time to find such opportunities. This challenge gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission: portfolio managers.
