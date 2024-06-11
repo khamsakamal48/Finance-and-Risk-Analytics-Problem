@@ -6,7 +6,7 @@ In this Capstone Project, as part of my Masters in Data Science Capstone Project
 
 Using stock data analysis, I walk you through my methodology and show you how I identified the best stocks to include in each portfolio. 
 
-
+### YouTube Video
 [![Creating Customized Investment Portfolios: A Data-Driven Approach | Finance and Risk Analytics](https://img.youtube.com/vi/FbJaAvZswsg/maxresdefault.jpg)](https://www.youtube.com/embed/FbJaAvZswsg)
 
 ## Business Case
