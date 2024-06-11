@@ -47,11 +47,11 @@ You must perform the required steps for both the individuals after understanding
 - To help you with the market benchmark, you are given the S&P 500 index prices for the same period.
 
 ## Visualizations (created in PowerBI)
-- Stocks performance
+- **Stocks performance**
 
 ![Stocks performance](/Dashboard%20or%20Visualizations/Dashboard%20-%20Stocks%20Analysis.jpg)
 
-- Returns and Risk
+- **Returns and Risk**
 
 ![Returns and Risk](/Dashboard%20or%20Visualizations/Dashboard%20-%20Risk%20Analysis%20&%20Stock%20Returns.jpg)
 
