@@ -4,7 +4,7 @@ Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Pet
 ## Project Explanation
 In this Capstone Project, as part of my Masters in Data Science Capstone Project at WOOLF University (UpGrad), I demonstrate how to create customized investment portfolios for two investors based on their unique risk tolerance and return requirements. 
 
-Using stock data analysis, I walk you through my methodology and show you how to identify the best stocks to include in each portfolio. 
+Using stock data analysis, I walk you through my methodology and show you how I identified the best stocks to include in each portfolio. 
 
 
 [![Watch the video](https://img.youtube.com/vi/FbJaAvZswsg/maxresdefault.jpg)](https://www.youtube.com/embed/FbJaAvZswsg)
